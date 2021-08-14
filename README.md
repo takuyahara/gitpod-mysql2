@@ -2,7 +2,7 @@
 ```zsh
 > yarn
 > docker-compose up -d
-> node main.js
+> node index.js
 [
   TextRow { User: 'root' },
   TextRow { User: 'mysql.session' },
